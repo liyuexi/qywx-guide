@@ -3,6 +3,7 @@
 ## 企业微信开发概述
 公众号视频：
 https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1498956502093594628&__biz=MzA5ODcyODY0Nw==#wechat_redirect
+
 B站视频：
 https://space.bilibili.com/11311043/channel/detail?cid=143550
 
