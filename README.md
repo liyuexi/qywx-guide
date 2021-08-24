@@ -11,7 +11,8 @@ https://space.bilibili.com/11311043/channel/detail?cid=143550
 ### 视频教程：  
 https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5ODcyODY0Nw==&action=getalbum&album_id=1745513894715916289#wechat_redirect
 ### demo源码：
-准备中
+前端vite+vuejs:https://github.com/liyuexi/qywx-vuejs 
+后端java springboot:https://github.com/liyuexi/qywx-inner-java 
 
 ## 企业微信第三方应用
 ### 视频教程
