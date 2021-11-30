@@ -1,5 +1,8 @@
 # qywx-guide
-企业微信开发指南，关注公众号“tob dev”获取更多信息。
+企业微信开发指南；  
+加企业微信开发同行群及咨询联系李月喜"li570467731";      
+获取更多企业微信教程及资料关注公众号ToB Dev 微信号“tobdev”;    
+
 ## 企业微信开发概述
 公众号视频：
 https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1498956502093594628&__biz=MzA5ODcyODY0Nw==#wechat_redirect
