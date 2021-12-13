@@ -19,7 +19,7 @@ https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5ODcyODY0Nw==&action=getalbum&a
 ### demo源码：
 前端vite+vuejs:  
 https://github.com/liyuexi/qywx-vuejs     
-https://gitee.com/liyuexi/qywx-vuejs
+https://gitee.com/liyuexi/qywx-vuejs  
 后端java springboot:  
 https://github.com/liyuexi/qywx-inner-java    
 https://gitee.com/liyuexi/qywx-inner-java  
